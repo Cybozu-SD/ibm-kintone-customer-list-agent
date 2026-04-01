@@ -1,1 +1,0 @@
-# ibm-kintone-customer-list-agent
